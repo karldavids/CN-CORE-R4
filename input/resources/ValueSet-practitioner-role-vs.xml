@@ -5,6 +5,7 @@
  <name value="practitioner-role-vs"/><!-- ?? 0..1 Name for this value set (computer friendly) -->
  <title value="医疗健康服务的人员角色代码"/><!-- 0..1 Name for this value set (human friendly) -->
  <status value="draft"/><!-- 1..1 draft | active | retired | unknown -->
+  <description value="角色代码，医疗健康服务人员可能拥有的角色，某个组织给一个提供医疗健康服务的人员授权的角色。"/>
  <compose>  <!-- 0..1 Content logical definition of the value set (CLD) --> 
   <include>  <!-- 1..* Include one or more codes from a code system or other value set(s) -->
    <system value="http://terminology.hl7.org/CodeSystem/practitioner-role"/><!-- ?? 0..1 The system the codes come from --> 
