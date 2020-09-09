@@ -5,6 +5,7 @@
  <name value="document-category-vs"/><!-- ?? 0..1 Name for this value set (computer friendly) -->
  <title value="文档类别编码"/><!-- 0..1 Name for this value set (human friendly) -->
  <status value="draft"/><!-- 1..1 draft | active | retired | unknown -->
+  <description value="文档类型的编码，描述该文档的类别，如 转诊（院）记录、出院小结、西医处方等。"/>
  <compose>  <!-- 0..1 Content logical definition of the value set (CLD) --> 
   <include>  <!-- 1..* Include one or more codes from a code system or other value set(s) -->
    <system value="http://hl7.org/fhir/participationstatus"/><!-- ?? 0..1 The system the codes come from --> 

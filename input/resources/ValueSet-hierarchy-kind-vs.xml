@@ -10,7 +10,7 @@
     <title value="组织机构层级种类"/>
     <status value="draft"/>
     <publisher value="hl7fhir.cn"/>
-    <description value="组织机构层级种类"/>
+    <description value="组织机构层级种类，如医院、病区、科室等。"/>
     <expansion>
         <timestamp value="2020-07-06T16:35:17.218+08:00"/>
         <total value="4"/>

@@ -5,6 +5,7 @@
  <name value="encounter-admit-source-vs"/><!-- ?? 0..1 Name for this value set (computer friendly) -->
  <title value="入院方式编码"/><!-- 0..1 Name for this value set (human friendly) -->
  <status value="draft"/><!-- 1..1 draft | active | retired | unknown -->
+    <description value="入院方式编码，描述患者的入院的渠道，如门诊转入、转诊入院、体检入院"/>
  <compose>  <!-- 0..1 Content logical definition of the value set (CLD) --> 
   <include>  <!-- 1..* Include one or more codes from a code system or other value set(s) -->
    <system value="http://terminology.hl7.org/CodeSystem/admit-source"/><!-- ?? 0..1 The system the codes come from --> 

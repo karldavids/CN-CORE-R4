@@ -4,6 +4,7 @@
  <url value="http://ValueSet.hl7fhir.cn/encounter-special-courtesy-vs"/>
  <name value="encounter-special-courtesy-vs"/><!-- ?? 0..1 Name for this value set (computer friendly) -->
  <title value="特殊礼遇编码"/><!-- 0..1 Name for this value set (human friendly) -->
+    <description value="描述患者的特殊身份和待遇，如：VIP、绿色通道、医生家属等。"/>
  <status value="draft"/><!-- 1..1 draft | active | retired | unknown -->
  <compose>  <!-- 0..1 Content logical definition of the value set (CLD) --> 
   <include>  <!-- 1..* Include one or more codes from a code system or other value set(s) -->

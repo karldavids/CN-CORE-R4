@@ -10,7 +10,7 @@
     <title value="世界各国和地区名称"/>
     <status value="draft"/>
     <publisher value="中华人民共和国国家质量监督检验检疫总局"/>
-    <description value="国家GB级值域代码"/>
+    <description value="国家GB级值域代码，GB/T 2659-2000"/>
     <jurisdiction>
         <coding>
             <system value="http://ValueSet.hl7fhir.cn/countries-and-regions"/>

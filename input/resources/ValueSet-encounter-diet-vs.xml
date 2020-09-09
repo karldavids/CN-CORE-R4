@@ -4,6 +4,7 @@
  <url value="http://ValueSet.hl7fhir.cn/encounter-diet-vs"/>
  <name value="encounter-diet-vs"/><!-- ?? 0..1 Name for this value set (computer friendly) -->
  <title value="饮食偏好代码"/><!-- 0..1 Name for this value set (human friendly) -->
+    <description value="患者的饮食偏好，如少油、少盐、无糖等。"/>
  <status value="draft"/><!-- 1..1 draft | active | retired | unknown -->
  <compose>  <!-- 0..1 Content logical definition of the value set (CLD) --> 
   <include>  <!-- 1..* Include one or more codes from a code system or other value set(s) -->

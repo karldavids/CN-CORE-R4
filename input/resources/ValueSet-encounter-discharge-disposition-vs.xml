@@ -4,6 +4,7 @@
  <url value="http://ValueSet.hl7fhir.cn/encounter-discharge-disposition-vs"/>
  <name value="encounter-discharge-disposition-vs"/><!-- ?? 0..1 Name for this value set (computer friendly) -->
  <title value="出院位置类别代码"/><!-- 0..1 Name for this value set (human friendly) -->
+    <description value="患者的出院位置的类别，如：家、上级医院、其他医疗机构、殡仪馆"/>
  <status value="draft"/><!-- 1..1 draft | active | retired | unknown -->
  <compose>  <!-- 0..1 Content logical definition of the value set (CLD) --> 
   <include>  <!-- 1..* Include one or more codes from a code system or other value set(s) -->
