@@ -52,7 +52,7 @@
 				<!-- 本地资源定义（Patient） -->
 				<reference value="StructureDefinition/Patient"/>
 			</reference>
-			<description value="接受医疗健康服务的个人或动物，医疗过程是以患者为中心的。对交叉索进行中国本地化约定"/>
+			<description value="接受医疗健康服务的个人或动物，医疗过程是以患者为中心的。对交叉索进行中国本地化约定。"/>
 		</resource>
 
 		<resource>
