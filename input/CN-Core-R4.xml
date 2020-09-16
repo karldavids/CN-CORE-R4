@@ -70,7 +70,7 @@
 				<!-- 本地资源定义（PractitionerRole ） -->
 				<reference value="StructureDefinition/PractitionerRole"/>
 			</reference>
-			<description value="医务人员提供医疗服务时的岗位相关信息，包括所属组织、科室、角色/岗位等"/>
+			<description value="医务人员提供医疗服务时的岗位相关信息，包括所属组织、科室、角色/岗位等。"/>
 		</resource>
 		
 		<resource>
